@@ -1,0 +1,7 @@
+1,Tejaswi,Science,A
+2,Sushmitha,Geography,G
+3,Lavanya,Hindi,G
+4,Rahul,Computer,B
+5,Smruthi,Social,C
+6,Namratha,Kannada,C
+7,Ragini,Kannada,E
